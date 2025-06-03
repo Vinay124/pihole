@@ -51,12 +51,7 @@ snapads.com
 aws-cf.api.snapchat.com
 graph.instagram.com
 ads.instagram.com
-www.facebook.com
-connect.facebook.net
-www.instagram.com
 scontent.xx.fbcdn.net
-youtube.com
-youtubei.googleapis.com
 r4---sn-xxxxxx.googlevideo.com
 r5---sn-xxxxxx.googlevideo.com
 

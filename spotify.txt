@@ -1,7 +1,7 @@
 audio-ads.spotify.com
 adclick.g.doubleclick.net
 pubads.g.doubleclick.net
-heads-ec.spotify.com
+
 ads-fa.spotify.com
 adeventtracker.spotify.com
 pagead46.l.doubleclick.net

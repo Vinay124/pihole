@@ -55,3 +55,15 @@ scontent.xx.fbcdn.net
 r4---sn-xxxxxx.googlevideo.com
 r5---sn-xxxxxx.googlevideo.com
 
+
+stats.g.doubleclick.net
+ad.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+mediavisor.doubleclick.net
+
+ads30.adcolony.com
+adc3-launch.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+ads.youtube.com

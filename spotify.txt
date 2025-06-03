@@ -67,3 +67,5 @@ adc3-launch.adcolony.com
 events3alt.adcolony.com
 wd.adcolony.com
 ads.youtube.com
+app.getsentry.com
+browser.sentry-cdn.com

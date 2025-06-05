@@ -1,9 +1,10 @@
-audio-ads.spotify.com
+#testing for track continues track changing 
+#audio-ads.spotify.com
+#ads-fa.spotify.com
+#adeventtracker.spotify.com
+
 adclick.g.doubleclick.net
 pubads.g.doubleclick.net
-
-ads-fa.spotify.com
-adeventtracker.spotify.com
 pagead46.l.doubleclick.net
 securepubads.g.doubleclick.net
 googleads.g.doubleclick.net

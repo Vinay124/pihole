@@ -26,6 +26,27 @@ ads-api.spotify.com
 events.spotify.com
 spads1-a.spotify.com
 
+audio-ak-spotify-com.akamaized.net
+audio-ak.spotify.com.eip.akadns.net
+audio-akp-spotify-com.akamaized.net
+audio2.spotify.com
+audio4-ak.spotify.com.edgesuite.net
+audio4-akp.spotify.com.edgesuite.net
+dealer.spotify.com
+#dealer.spotify.com (used as a load balancer and reverse proxy)
+#wl.spotify.com (alias for thirdparty.bnc.lt, a tracking domain)
+adeventtracker.spotify.com/monitoring
+spclient.wg.spotify.com
+pixel.spotify.com
+pixel-static.spotify.com
+spclient.wg.spotify.com
+video-akpcw.spotifycdn.com
+video-akpcw-cdn-spotify-com.akamaized.net
+video-ak.cdn.spotify.com.splitter-eip.akadns.net
+eip-ntt.video-ak.cdn.spotify.com.akahost.net
+video-fa.scdn.co
+video-fa.cdn.spotify.com
+video-fa-b.cdn.spotify.com
 
 #GoogleAds
 google-analytics.com

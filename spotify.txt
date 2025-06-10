@@ -36,6 +36,7 @@ dealer.spotify.com
 #dealer.spotify.com (used as a load balancer and reverse proxy)
 #wl.spotify.com (alias for thirdparty.bnc.lt, a tracking domain)
 adeventtracker.spotify.com/monitoring
+adeventtracker.spotify.com
 spclient.wg.spotify.com
 pixel.spotify.com
 pixel-static.spotify.com

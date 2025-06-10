@@ -1,3 +1,17 @@
+#track playback domains
+#spotify-ads2
+#spclient.wg.spotify.com
+#audio-ak-spotify-com.akamaized.net
+#audio2.spotify.com
+#dealer.spotify.com (used as a load balancer and reverse proxy)
+#wl.spotify.com (alias for thirdparty.bnc.lt, a tracking domain)
+
+#Tracking-doamins
+tracking.spotify.com
+log.spotify.com
+apresolve.spotify.com
+metrics.spotify.com
+
 #Spotify Ads
 adeventtracker.spotify.com
 adclick.g.doubleclick.net
@@ -16,14 +30,7 @@ s0.2mdn.net
 static.doubleclick.net
 crashlytics.com
 
-#track playback domains
-#spotify-ads2
-#spclient.wg.spotify.com
-#audio-ak-spotify-com.akamaized.net
-#audio2.spotify.com
-#dealer.spotify.com (used as a load balancer and reverse proxy)
-#wl.spotify.com (alias for thirdparty.bnc.lt, a tracking domain)
-
+#Block Ads
 ads.spotify.com
 ad.doubleclick.net
 partner.spotify.com

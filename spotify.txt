@@ -7,7 +7,6 @@
 #wl.spotify.com (alias for thirdparty.bnc.lt, a tracking domain)
 #audio-ec.spotify.com
 
-spclient.wg.spotify.com
 adeventtracker.spotify.com
 analytics.spotify.com
 

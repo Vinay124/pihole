@@ -6,6 +6,17 @@
 #dealer.spotify.com (used as a load balancer and reverse proxy)
 #wl.spotify.com (alias for thirdparty.bnc.lt, a tracking domain)
 
+spclient.wg.spotify.com
+adeventtracker.spotify.com
+analytics.spotify.com
+audio-ec.spotify.com
+googleads.g.doubleclick.net
+pubads.g.doubleclick.net
+pagead.l.doubleclick.net
+adclick.g.doubleclick.net
+ad.doubleclick.net
+
+
 #Tracking-doamins
 tracking.spotify.com
 log.spotify.com

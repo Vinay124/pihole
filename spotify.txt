@@ -8,7 +8,6 @@
 #audio-ec.spotify.com
 
 adeventtracker.spotify.com
-analytics.spotify.com
 
 #Tracking-doamins
 tracking.spotify.com

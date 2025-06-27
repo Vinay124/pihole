@@ -42,7 +42,7 @@ audio-ak.spotify.com.eip.akadns.net
 audio-akp-spotify-com.akamaized.net
 audio4-ak.spotify.com.edgesuite.net
 audio4-akp.spotify.com.edgesuite.net
-dealer.spotify.com
+#dealer.spotify.com
 adeventtracker.spotify.com/monitoring
 pixel.spotify.com
 pixel-static.spotify.com
@@ -94,7 +94,7 @@ ads-interfaces.sc-cdn.net
 ||spclient.wg.spotify.com^
 ||audio-ak-spotify-com.akamaized.net^
 ||audio2.spotify.com^
-||dealer.spotify.com^
+#||dealer.spotify.com^
 ||wl.spotify.com^
 ||audio-ec.spotify.com^
 
@@ -114,7 +114,7 @@ ads-interfaces.sc-cdn.net
 ||events.spotify.com^
 ||pixel.spotify.com^
 ||pixel-static.spotify.com^
-||dealer.spotify.com^
+#||dealer.spotify.com^
 ||video-akpcw.spotifycdn.com^
 ||video-akpcw-cdn-spotify-com.akamaized.net^
 ||video-ak.cdn.spotify.com.splitter-eip.akadns.net^

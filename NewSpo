@@ -1,6 +1,8 @@
-# Spotify Playback / Track Domains (do NOT block if playback issues occur)
+# Spotify Playback / Track Domains
+spclient.wg.spotify.com
 audio-ak-spotify-com.akamaized.net
 audio2.spotify.com
+dealer.spotify.com
 wl.spotify.com
 audio-ec.spotify.com
 
@@ -29,7 +31,7 @@ s0.2mdn.net
 static.doubleclick.net
 crashlytics.com
 
-# Other Spotify Ad/Promo Services
+# "Block Ads" Categories
 ad.doubleclick.net
 partner.spotify.com
 prod.spotify.com
@@ -40,7 +42,8 @@ audio-ak.spotify.com.eip.akadns.net
 audio-akp-spotify-com.akamaized.net
 audio4-ak.spotify.com.edgesuite.net
 audio4-akp.spotify.com.edgesuite.net
-adeventtracker.spotify.com
+dealer.spotify.com
+adeventtracker.spotify.com/monitoring
 pixel.spotify.com
 pixel-static.spotify.com
 video-akpcw.spotifycdn.com
@@ -55,16 +58,20 @@ video-fa-b.cdn.spotify.com
 google-analytics.com
 ssl.google-analytics.com
 analytics.google.com
-adservice.google.com
-adservice.google.co
 ads.yahoo.com
 ads-twitter.com
 ads.linkedin.com
 ads.facebook.com
 secure.adnxs.com
 ib.adnxs.com
+adservice.google.com
+adservice.google.co
 
 # Snap Ads Tracking
+ads.yahoo.com
+ads-twitter.com
+ads.linkedin.com
+ads.facebook.com
 adsapi.snapchat.com
 snapads.com
 us.adserver.snapads.com
@@ -75,8 +82,8 @@ euw.adserver.snapads.com
 graph.instagram.com
 ads.instagram.com
 scontent.xx.fbcdn.net
-ads-interfaces.sc-cdn.net
 r2---sn-*.googlevideo.com
 r3---sn-*.googlevideo.com
 r4---sn-*.googlevideo.com
 r5---sn-*.googlevideo.com
+ads-interfaces.sc-cdn.net

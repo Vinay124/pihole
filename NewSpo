@@ -1,10 +1,10 @@
 # Spotify Playback / Track Domains
-spclient.wg.spotify.com
-audio-ak-spotify-com.akamaized.net
+#spclient.wg.spotify.com
+#audio-ak-spotify-com.akamaized.net
 #audio2.spotify.com
-dealer.spotify.com
-wl.spotify.com
-audio-ec.spotify.com
+#dealer.spotify.com
+#wl.spotify.com
+#audio-ec.spotify.com
 
 # Spotify Tracking Domains
 tracking.spotify.com

@@ -1,8 +1,8 @@
 # Spotify Playback / Track Domains
 #spclient.wg.spotify.com
 audio-ak-spotify-com.akamaized.net
-audio2.spotify.com
-#dealer.spotify.com
+#audio2.spotify.com
+
 wl.spotify.com
 audio-ec.spotify.com
 
@@ -94,7 +94,7 @@ ads-interfaces.sc-cdn.net
 ||spclient.wg.spotify.com^
 ||audio-ak-spotify-com.akamaized.net^
 ||audio2.spotify.com^
-#||dealer.spotify.com^
+
 ||wl.spotify.com^
 ||audio-ec.spotify.com^
 
@@ -114,7 +114,7 @@ ads-interfaces.sc-cdn.net
 ||events.spotify.com^
 ||pixel.spotify.com^
 ||pixel-static.spotify.com^
-#||dealer.spotify.com^
+
 ||video-akpcw.spotifycdn.com^
 ||video-akpcw-cdn-spotify-com.akamaized.net^
 ||video-ak.cdn.spotify.com.splitter-eip.akadns.net^

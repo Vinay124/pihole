@@ -9,7 +9,7 @@ audio-ec.spotify.com
 # Spotify Tracking Domains
 tracking.spotify.com
 log.spotify.com
-apresolve.spotify.com
+#apresolve.spotify.com
 metrics.spotify.com
 
 # Spotify Ad Domains
@@ -101,7 +101,7 @@ ads-interfaces.sc-cdn.net
 ! Spotify Tracking & Analytics
 ||tracking.spotify.com^
 ||log.spotify.com^
-||apresolve.spotify.com^
+
 ||metrics.spotify.com^
 
 ! Spotify Ad Services

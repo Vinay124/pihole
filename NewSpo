@@ -1,20 +1,24 @@
-# Spotify Playback / Track Domains
-#spclient.wg.spotify.com
-#audio-ak-spotify-com.akamaized.net
-#audio2.spotify.com
-#dealer.spotify.com
-wl.spotify.com
-#audio-ec.spotify.com
-
-# Spotify Tracking Domains
+# === Spotify Ad & Tracking Domains ===
+ads.spotify.com
 tracking.spotify.com
 log.spotify.com
-apresolve.spotify.com
 metrics.spotify.com
-
-# Spotify Ad Domains
+apresolve.spotify.com
 adeventtracker.spotify.com
-ads.spotify.com
+partner.spotify.com
+prod.spotify.com
+ads-api.spotify.com
+events.spotify.com
+spads1-a.spotify.com
+pixel.spotify.com
+pixel-static.spotify.com
+analytics.spotify.com
+
+# Optional: block this if it doesn't break playback
+# wl.spotify.com
+
+# === DoubleClick / Google Ads & Tracking ===
+ad.doubleclick.net
 adclick.g.doubleclick.net
 pubads.g.doubleclick.net
 pagead46.l.doubleclick.net
@@ -29,49 +33,34 @@ ads.g.doubleclick.net
 googlesyndication.com
 s0.2mdn.net
 static.doubleclick.net
-crashlytics.com
-
-# "Block Ads" Categories
-ad.doubleclick.net
-partner.spotify.com
-prod.spotify.com
-ads-api.spotify.com
-events.spotify.com
-spads1-a.spotify.com
-audio-ak.spotify.com.eip.akadns.net
-audio-akp-spotify-com.akamaized.net
-audio4-ak.spotify.com.edgesuite.net
-audio4-akp.spotify.com.edgesuite.net
-dealer.spotify.com
-adeventtracker.spotify.com/monitoring
-pixel.spotify.com
-pixel-static.spotify.com
-video-akpcw.spotifycdn.com
-video-akpcw-cdn-spotify-com.akamaized.net
-video-ak.cdn.spotify.com.splitter-eip.akadns.net
-eip-ntt.video-ak.cdn.spotify.com.akahost.net
-video-fa.scdn.co
-video-fa.cdn.spotify.com
-video-fa-b.cdn.spotify.com
-
-# Google Ads & Analytics
-google-analytics.com
-ssl.google-analytics.com
-analytics.google.com
-ads.yahoo.com
-ads-twitter.com
-ads.linkedin.com
-ads.facebook.com
-secure.adnxs.com
-ib.adnxs.com
 adservice.google.com
 adservice.google.co
 
-# Snap Ads Tracking
-ads.yahoo.com
-ads-twitter.com
-ads.linkedin.com
+# === Google Analytics ===
+google-analytics.com
+ssl.google-analytics.com
+analytics.google.com
+
+# === Facebook / Instagram / Meta Ads ===
 ads.facebook.com
+graph.instagram.com
+ads.instagram.com
+scontent.xx.fbcdn.net
+
+# === Twitter Ads ===
+ads-twitter.com
+
+# === LinkedIn Ads ===
+ads.linkedin.com
+
+# === Yahoo Ads ===
+ads.yahoo.com
+
+# === AppNexus (ad tech company) ===
+secure.adnxs.com
+ib.adnxs.com
+
+# === Snapchat Ads & Analytics ===
 adsapi.snapchat.com
 snapads.com
 us.adserver.snapads.com
@@ -79,17 +68,4 @@ app-analytics.snapchat.com
 app-analytics-v2.snapchat.com
 ase.adserver.snapads.com
 euw.adserver.snapads.com
-graph.instagram.com
-ads.instagram.com
-scontent.xx.fbcdn.net
-
 ads-interfaces.sc-cdn.net
-
-adsapi.snapchat.com
-snapads.com
-graph.instagram.com
-ads.instagram.com
-
-spclient.wg.spotify.com
-analytics.spotify.com
-
